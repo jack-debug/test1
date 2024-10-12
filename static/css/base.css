@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+}
+body {
+    background-color: #1a1a1a;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+header a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+header a:hover {
+    color: #f0f0f0;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+header a:active {
+    color: #808080;
+}
+
+header {
+    box-shadow: 0px 4px 2px -2px gray;
+}
+.mylogo{
+    height: 400px;
+    width: auto;
+    border-radius: 20px;
+}
+h1{
+    color: #ffffff;
+}
